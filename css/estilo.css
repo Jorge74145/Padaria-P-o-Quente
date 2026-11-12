@@ -1,6 +1,6 @@
 :root {
-    --cor-bg: #fdfdfd;
-    --cor-card-bg: #ffffff;
+    --cor-bg: #fdfdfd67;
+    --cor-card-bg: #ffffff6c;
     --cor-texto: #333333;
     --cor1: rgb(109, 255, 73);
     --cor2: #339220;
@@ -218,4 +218,7 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+}
+table, th, td {
+  border:1px solid rgb(57, 153, 1);
 }
