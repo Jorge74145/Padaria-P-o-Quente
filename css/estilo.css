@@ -220,7 +220,7 @@ footer {
     }
 }
 table, th, td {
-  border:1px solid rgb(57, 153, 1);
+  border:2px solid rgb(57, 153, 1);
 }
 
 .destaque {
