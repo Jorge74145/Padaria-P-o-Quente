@@ -2,11 +2,11 @@
     --cor-bg: #fdfdfd67;
     --cor-card-bg: #ffffff6c;
     --cor-texto: #333333;
-    --cor1: rgb(109, 255, 73);
-    --cor2: #339220;
-    --cor3: #3e8f2a;
-    --cor4: #1c9e43;
-    --cor5: rgb(6, 88, 20);
+    --cor1: #ffffff;
+    --cor2: #66280a;
+    --cor3: #713112;
+    --cor4: #7c3b1a;
+    --cor5: #874421;
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive, sans-serif;
 }
@@ -16,8 +16,8 @@ body.dark-mode {
     --cor-bg: #121212;
     --cor-card-bg: #1e1e1e;
     --cor-texto: #f0f0f0;
-    --cor5: #0a280a;
-    --cor3: #1c9e22;
+    --cor5: #66280a;
+    --cor3: #713112;
 }
 
 * {
