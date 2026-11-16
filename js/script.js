@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     // 1. Mensagem de boas-vindas
     if (!sessionStorage.getItem("welcomeShown")) {
-        alert("Bem-vindo à Dance Academy!");
+        alert("Bem vindo ao Pão Quente");
         sessionStorage.setItem("welcomeShown", "true");
     }
 

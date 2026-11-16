@@ -222,3 +222,19 @@ footer {
 table, th, td {
   border:1px solid rgb(57, 153, 1);
 }
+
+.destaque {
+    float: right;
+    width: 300px;
+    height: auto;
+    margin-left: 10px;
+    margin-bottom:1px;
+}   
+
+.destaque2 {
+    float: right;
+    width: 250px;
+    height: auto;
+    margin-left: 10px;
+    margin-bottom:10px;
+}  
